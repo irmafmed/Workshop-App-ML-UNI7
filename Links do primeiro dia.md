@@ -48,13 +48,13 @@ https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/
 Um livro conceitual muito bom
 
 Data Science para Negócios (tradução)
-de Foster Provost and Tom Fawcett
+de Foster Provost and Tom Fawcett <br/>
 https://www.amazon.com.br/Science-Negócios-Mineração-Pensamento-Anal%C3%ADtico/dp/8576089726/
 
 ![DS for Biz book](DSforBiz-Ptg.png)
 
 Data Science for Business (edição original)
-de Foster Provost and Tom Fawcett
+de Foster Provost and Tom Fawcett <br/>
 https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/
 
 ![DS for Biz book](DsforBiz-Eng.png)
