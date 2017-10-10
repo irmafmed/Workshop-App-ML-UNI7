@@ -16,7 +16,7 @@ https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics
 Site do livro com o pdf deste livro gratuito para baixar e com todos os conjuntos de dados usados no texto e o código dos programas em R <br/>
 http://www-bcf.usc.edu/~gareth/ISL/
 
-![St Learning book](../img/sta-learning-book.png)
+![St Learning book](../img/sta-learning-bk.png)
 
 
 
