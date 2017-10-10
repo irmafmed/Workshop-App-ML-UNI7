@@ -1,5 +1,5 @@
 
-<h2>Estes são os links do primeiro dia do Workshop</h2>
+<h2>Estes são os links do segundo dia do Workshop</h2>
 Paulo Rios<br><br>
 
 Esta é apenas uma versão inicial. Colocarei mais links aqui depois da aula de hoje à noite. <br/>
