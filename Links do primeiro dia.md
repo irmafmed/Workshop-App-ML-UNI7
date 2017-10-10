@@ -9,6 +9,9 @@ http://DataCyz.com
 **Meu blog** <br/>
 http://Cyzne.com
 
+**Minha conta no LinkedIn** <br/>
+https://www.linkedin.com/in/paulocriosjr/
+
 **O que deve ter num curso de Data Science** <br>
 http://www.cyzne.com/?p=1061
 
