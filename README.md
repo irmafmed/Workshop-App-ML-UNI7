@@ -1,9 +1,10 @@
 # Workshop-App-ML-UNI7
 
-Documentação e programas do Workshop em Aplicações Modernas de Machine Learning dado na UNI7, Fortaleza
+**Workshop em Aplicações Modernas de Machine Learning na UNI7, Fortaleza** 
 
-Aqui estarão todos os slides, documentação e os programas em Python do Workshop.
+Toda a documentação e programas do workshop. Ao final de cada dia os slides, links e programas daquele dia estarão aqui.
 
+Atualmente os slides e os links do primeiro dia estão já disponíveis.
 
 
 
