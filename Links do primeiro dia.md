@@ -6,10 +6,10 @@ Paulo Rios
 **Minha empresa de consultoria em Genebra, Suíça**
 http://DataCyz.com
 
-**Meu blog**
+**Meu blog** <br/>
 http://Cyzne.com
 
-**O que deve ter num curso de Data Science**
+**O que deve ter num curso de Data Science** <br>
 http://www.cyzne.com/?p=1061
 
 **Data Science e dinossauros do tempo atual**
