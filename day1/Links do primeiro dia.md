@@ -34,7 +34,7 @@ Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Work
 de John. D. Kelleher e Brian Mac Namee <br>
 https://www.amazon.com/dp/0262029448/
 
-![ML intro book](ML-intro-book2.png)
+![ML intro book](../img/ML-intro-book2.png)
 
 
 **O melhor livro atual de Deep Learning** <br>
@@ -43,7 +43,7 @@ Deep Learning <br>
 de Ian Goodfellow e Yoshua Bengio <br>
 https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/
 
-![Deep Learning book](Deep-Learning-book.png)
+![Deep Learning book](../img/Deep-Learning-book.png)
 
 Um livro conceitual muito bom
 
@@ -51,10 +51,10 @@ Data Science para Negócios (tradução)
 de Foster Provost and Tom Fawcett <br/>
 https://www.amazon.com.br/Science-Negócios-Mineração-Pensamento-Anal%C3%ADtico/dp/8576089726/
 
-![DS for Biz book](DSforBiz-Ptg.png)
+![DS for Biz book](../img/DSforBiz-Ptg.png)
 
 Data Science for Business (edição original)
 de Foster Provost and Tom Fawcett <br/>
 https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/
 
-![DS for Biz book](DsforBiz-Eng.png)
+![DS for Biz book](../img/DsforBiz-Eng.png)
