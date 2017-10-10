@@ -1,6 +1,6 @@
 
 
-Estes são os links do primeiro dia do Workshop
+**Estes são os links do primeiro dia do Workshop**
 Paulo Rios
 
 Minha empresa de consultoria em Genebra, Suíça
