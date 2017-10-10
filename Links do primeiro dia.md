@@ -31,7 +31,7 @@ Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Work
 de John. D. Kelleher e Brian Mac Namee <br>
 https://www.amazon.com/dp/0262029448/
 
-![alt text](https://raw.githubusercontent.com/paulocr2/Workshop-App-ML-UNI7/Deep Learning book.png)
+![Deep Learning book](https://raw.githubusercontent.com/paulocr2/Workshop-App-ML-UNI7/Deep-Learning-book.png)
 
 **O melhor livro atual de Deep Learning** <br>
 
