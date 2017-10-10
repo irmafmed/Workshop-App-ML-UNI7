@@ -1,7 +1,7 @@
 
 
 <h2>Estes são os links do primeiro dia do Workshop</h2>
-Paulo Rios
+Paulo Rios<br><br>
 
 **Minha empresa de consultoria em Genebra, Suíça** <br>
 http://DataCyz.com
@@ -22,10 +22,10 @@ http://archive.ics.uci.edu/ml/datasets.html
 http://archive.ics.uci.edu/ml/datasets/Census+Income
 
 **Site de competições de Data Science e Machine Learning** <br>
-- Também há muitos conjuntos de dados interessantes
+Também há muitos conjuntos de dados interessantes<br>
 https://www.kaggle.com
 
-**Bons livros de Machine Learning** <br>
+**Bom livro introdutório de Machine Learning** <br>
 
 Fundamentals of Machine Learning for Predictive Data Analytics: Algorithms, Worked Examples, and Case Studies (MIT Press) <br>
 de John. D. Kelleher e Brian Mac Namee <br>
